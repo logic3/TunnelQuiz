@@ -259,10 +259,18 @@ def main():
         return s
 
     filtered_routes = []
+    seen_short = set()
     for r in routes:
         short = (r.get("route_short_name") or "").strip()
-        if is_target_line(short):
+        if is_target_line(short) and short not in seen_short:
+            seen_short.add(short)
             filtered_routes.append(r)
+        elif is_target_line(short) and short in seen_short:
+            # Merge duplicate route_short_name (e.g. S2 branches) into first route's trip pool
+            for fr in filtered_routes:
+                if fr["route_short_name"].strip() == short:
+                    fr["_extra_route_ids"] = fr.get("_extra_route_ids", []) + [r["route_id"]]
+                    break
 
     filtered_routes.sort(key=lambda r: (
         0 if r["route_short_name"].startswith("U") else 1,
@@ -280,6 +288,10 @@ def main():
         color = LINE_COLORS.get(line_id, S_BAHN_COLOR)
 
         trip_stops = get_representative_trip_stops(route["route_id"], trips, stop_times_by_trip)
+        for extra_rid in route.get("_extra_route_ids", []):
+            extra = get_representative_trip_stops(extra_rid, trips, stop_times_by_trip)
+            if len(extra) > len(trip_stops):
+                trip_stops = extra
         station_ids_ordered = []
         seen = set()
 

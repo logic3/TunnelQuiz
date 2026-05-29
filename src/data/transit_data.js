@@ -1733,47 +1733,6 @@ const TRANSIT_LINES = [
     "pathD": "M 597.93,357.95 L 564.00,372.55 L 541.09,391.61 L 497.62,420.35 L 474.61,423.34 L 453.57,419.51 L 428.84,407.95 L 395.85,379.50 L 368.28,356.42 L 347.02,344.40 L 330.50,322.85 L 314.44,322.44 L 297.59,309.80 L 275.88,305.36 L 260.28,308.34 L 246.50,298.50 L 243.16,280.89 L 231.62,265.04 L 220.41,254.89 L 208.23,244.63"
   },
   {
-    "id": "S2",
-    "name": "S2",
-    "color": "#009640",
-    "mode": "sbahn",
-    "stationIds": [
-      "bergedorf",
-      "nettelnburg",
-      "allermoehe",
-      "mittlerer-landweg",
-      "billwerder-moorfleet",
-      "tiefstack",
-      "rothenburgsort",
-      "berliner-tor",
-      "hamburg-hbf",
-      "dammtor-messe-cch",
-      "sternschanze-messe",
-      "holstenstrasse",
-      "diebsteich",
-      "langenfelde",
-      "stellingen-arenen",
-      "eidelstedt",
-      "elbgaustrasse"
-    ],
-    "pathD": "M 497.62,420.35 L 474.61,423.34 L 453.57,419.51 L 428.84,407.95 L 395.85,379.50 L 368.28,356.42 L 347.02,344.40 L 330.50,322.85 L 314.44,322.44 L 297.59,309.80 L 275.88,305.36 L 260.28,308.34 L 246.50,298.50 L 243.16,280.89 L 231.62,265.04 L 220.41,254.89 L 208.23,244.63"
-  },
-  {
-    "id": "S3",
-    "name": "S3",
-    "color": "#009640",
-    "mode": "sbahn",
-    "stationIds": [
-      "elbgaustrasse",
-      "eidelstedt",
-      "stellingen-arenen",
-      "langenfelde",
-      "diebsteich",
-      "altona"
-    ],
-    "pathD": "M 208.23,244.63 L 220.41,254.89 L 231.62,265.04 L 243.16,280.89 L 246.50,298.50 L 246.95,323.99"
-  },
-  {
     "id": "S3",
     "name": "S3",
     "color": "#009640",
