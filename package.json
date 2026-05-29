@@ -1,0 +1,13 @@
+{
+  "name": "tunnel-quiz",
+  "version": "1.0.0",
+  "description": "Gamifiziertes Lernen der Hamburger U- und S-Bahn — Stationen und Linien auf der geografischen Karte.",
+  "scripts": {
+    "dev": "npx -y http-server -p 3000 -o",
+    "build:data": "python3 scripts/generate_transit_assets.py",
+    "build:html": "python3 scripts/assemble_html.py"
+  },
+  "keywords": [],
+  "author": "Jeremiah J. Lauer",
+  "license": "ISC"
+}

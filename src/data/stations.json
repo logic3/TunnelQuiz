@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "ahrensburg-ost",
+    "name": "Ahrensburg Ost",
+    "lat": 53.661257,
+    "lon": 10.242824,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "ahrensburg-west",
+    "name": "Ahrensburg West",
+    "lat": 53.66452,
+    "lon": 10.219984,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "allermoehe",
+    "name": "Allermöhe",
+    "lat": 53.490453,
+    "lon": 10.158478,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "alsterdorf",
+    "name": "Alsterdorf",
+    "lat": 53.606415,
+    "lon": 10.011521,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "alte-woehr-stadtpark",
+    "name": "Alte Wöhr (Stadtpark)",
+    "lat": 53.597728,
+    "lon": 10.035512,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "alter-teichweg",
+    "name": "Alter Teichweg",
+    "lat": 53.586636,
+    "lon": 10.064612,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "altona",
+    "name": "Altona",
+    "lat": 53.551842,
+    "lon": 9.934926,
+    "lines": [
+      "S1",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "aumuehle",
+    "name": "Aumühle",
+    "lat": 53.530018,
+    "lon": 10.314669,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "bahrenfeld",
+    "name": "Bahrenfeld",
+    "lat": 53.560023,
+    "lon": 9.911051,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "barmbek",
+    "name": "Barmbek",
+    "lat": 53.587505,
+    "lon": 10.044504,
+    "lines": [
+      "U3",
+      "S1"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "barmbek-2",
+    "name": "Barmbek(2)",
+    "lat": 53.587264,
+    "lon": 10.044377,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "baumwall-elbphilharmonie",
+    "name": "Baumwall (Elbphilharmonie)",
+    "lat": 53.544174,
+    "lon": 9.981327,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "bergedorf",
+    "name": "Bergedorf",
+    "lat": 53.48991,
+    "lon": 10.206135,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "berliner-tor",
+    "name": "Berliner Tor",
+    "lat": 53.552574,
+    "lon": 10.025325,
+    "lines": [
+      "U2",
+      "U3",
+      "U4",
+      "S1",
+      "S2",
+      "S7"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "berne",
+    "name": "Berne",
+    "lat": 53.626952,
+    "lon": 10.13986,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "billstedt",
+    "name": "Billstedt",
+    "lat": 53.542498,
+    "lon": 10.107312,
+    "lines": [
+      "U2",
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "billwerder-moorfleet",
+    "name": "Billwerder-Moorfleet",
+    "lat": 53.516166,
+    "lon": 10.096026,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "blankenese",
+    "name": "Blankenese",
+    "lat": 53.564526,
+    "lon": 9.815051,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "borgweg-stadtpark",
+    "name": "Borgweg (Stadtpark)",
+    "lat": 53.590806,
+    "lon": 10.014863,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "buchenkamp",
+    "name": "Buchenkamp",
+    "lat": 53.652925,
+    "lon": 10.185588,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "burgstrasse",
+    "name": "Burgstraße",
+    "lat": 53.555775,
+    "lon": 10.041669,
+    "lines": [
+      "U2",
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "christuskirche",
+    "name": "Christuskirche",
+    "lat": 53.56954,
+    "lon": 9.962412,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "dammtor-messe-cch",
+    "name": "Dammtor (Messe/CCH)",
+    "lat": 53.560961,
+    "lon": 9.989715,
+    "lines": [
+      "S2"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "dehnhaide",
+    "name": "Dehnhaide",
+    "lat": 53.579224,
+    "lon": 10.040993,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "diebsteich",
+    "name": "Diebsteich",
+    "lat": 53.568226,
+    "lon": 9.934442,
+    "lines": [
+      "S2",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "eidelstedt",
+    "name": "Eidelstedt",
+    "lat": 53.596253,
+    "lon": 9.906212,
+    "lines": [
+      "S2",
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "elbbruecken",
+    "name": "Elbbrücken",
+    "lat": 53.534958,
+    "lon": 10.024793,
+    "lines": [
+      "U4",
+      "S3",
+      "S5"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "elbgaustrasse",
+    "name": "Elbgaustraße",
+    "lat": 53.602848,
+    "lon": 9.893029,
+    "lines": [
+      "S2",
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "emilienstrasse",
+    "name": "Emilienstraße",
+    "lat": 53.57164,
+    "lon": 9.952648,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "eppendorfer-baum",
+    "name": "Eppendorfer Baum",
+    "lat": 53.583794,
+    "lon": 9.985235,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "farmsen",
+    "name": "Farmsen",
+    "lat": 53.607126,
+    "lon": 10.117632,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "feldstrasse-heiligengeistfeld",
+    "name": "Feldstraße (Heiligengeistfeld)",
+    "lat": 53.556929,
+    "lon": 9.968599,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "friedrichsberg",
+    "name": "Friedrichsberg",
+    "lat": 53.576348,
+    "lon": 10.057469,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "fuhlsbuettel",
+    "name": "Fuhlsbüttel",
+    "lat": 53.632497,
+    "lon": 10.026583,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "fuhlsbuettel-nord",
+    "name": "Fuhlsbüttel Nord",
+    "lat": 53.639662,
+    "lon": 10.016657,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "garstedt",
+    "name": "Garstedt",
+    "lat": 53.685448,
+    "lon": 9.985913,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "grosshansdorf",
+    "name": "Großhansdorf",
+    "lat": 53.662609,
+    "lon": 10.286661,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "gaensemarkt-oper",
+    "name": "Gänsemarkt (Oper)",
+    "lat": 53.555632,
+    "lon": 9.986482,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "habichtstrasse",
+    "name": "Habichtstraße",
+    "lat": 53.593583,
+    "lon": 10.052251,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hafencity-universitaet",
+    "name": "HafenCity Universität",
+    "lat": 53.54063,
+    "lon": 10.007598,
+    "lines": [
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hagenbecks-tierpark",
+    "name": "Hagenbecks Tierpark",
+    "lat": 53.59287,
+    "lon": 9.943852,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hagendeel",
+    "name": "Hagendeel",
+    "lat": 53.603894,
+    "lon": 9.945171,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hallerstrasse",
+    "name": "Hallerstraße",
+    "lat": 53.57281,
+    "lon": 9.988965,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "halstenbek",
+    "name": "Halstenbek",
+    "lat": 53.630329,
+    "lon": 9.83919,
+    "lines": [
+      "S3"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "hamburg-hbf",
+    "name": "Hamburg Hbf",
+    "lat": 53.552839,
+    "lon": 10.007949,
+    "lines": [
+      "S1",
+      "S2",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "hamburger-strasse",
+    "name": "Hamburger Straße",
+    "lat": 53.57444,
+    "lon": 10.037343,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hammer-kirche",
+    "name": "Hammer Kirche",
+    "lat": 53.555573,
+    "lon": 10.055517,
+    "lines": [
+      "U2",
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hammerbrook-city-sued",
+    "name": "Hammerbrook (City Süd)",
+    "lat": 53.546089,
+    "lon": 10.024021,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "harburg",
+    "name": "Harburg",
+    "lat": 53.45703,
+    "lon": 9.991405,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "harburg-rathaus",
+    "name": "Harburg Rathaus",
+    "lat": 53.460778,
+    "lon": 9.980365,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "hasselbrook",
+    "name": "Hasselbrook",
+    "lat": 53.564725,
+    "lon": 10.055956,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "hauptbahnhof-nord",
+    "name": "Hauptbahnhof Nord",
+    "lat": 53.554021,
+    "lon": 10.0052,
+    "lines": [
+      "U2",
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hauptbahnhof-sued",
+    "name": "Hauptbahnhof Süd",
+    "lat": 53.552145,
+    "lon": 10.00923,
+    "lines": [
+      "U1",
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "heimfeld-tu-hamburg",
+    "name": "Heimfeld (TU Hamburg)",
+    "lat": 53.465566,
+    "lon": 9.962903,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "hochkamp",
+    "name": "Hochkamp",
+    "lat": 53.561283,
+    "lon": 9.842123,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "hoheluftbruecke",
+    "name": "Hoheluftbrücke",
+    "lat": 53.577668,
+    "lon": 9.976275,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hoheneichen",
+    "name": "Hoheneichen",
+    "lat": 53.63554,
+    "lon": 10.068036,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "holstenstrasse",
+    "name": "Holstenstraße",
+    "lat": 53.561899,
+    "lon": 9.94935,
+    "lines": [
+      "S2"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "horner-rennbahn",
+    "name": "Horner Rennbahn",
+    "lat": 53.553533,
+    "lon": 10.084282,
+    "lines": [
+      "U2",
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "hudtwalckerstrasse",
+    "name": "Hudtwalckerstraße",
+    "lat": 53.594613,
+    "lon": 9.996045,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "iserbrook",
+    "name": "Iserbrook",
+    "lat": 53.576589,
+    "lon": 9.814317,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "joachim-maehl-strasse",
+    "name": "Joachim-Mähl-Straße",
+    "lat": 53.628177,
+    "lon": 9.950264,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "jungfernstieg",
+    "name": "Jungfernstieg",
+    "lat": 53.552788,
+    "lon": 9.994654,
+    "lines": [
+      "U1",
+      "U2",
+      "U4",
+      "S1",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "kellinghusenstrasse",
+    "name": "Kellinghusenstraße",
+    "lat": 53.588914,
+    "lon": 9.990836,
+    "lines": [
+      "U1",
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "kiekut",
+    "name": "Kiekut",
+    "lat": 53.653124,
+    "lon": 10.280428,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "kiwittsmoor",
+    "name": "Kiwittsmoor",
+    "lat": 53.675143,
+    "lon": 10.015862,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "klein-borstel",
+    "name": "Klein Borstel",
+    "lat": 53.627982,
+    "lon": 10.033351,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "klein-flottbek-botanischer-garten",
+    "name": "Klein Flottbek (Botanischer Garten)",
+    "lat": 53.558115,
+    "lon": 9.860501,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "klosterstern",
+    "name": "Klosterstern",
+    "lat": 53.581767,
+    "lon": 9.988057,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "kornweg-klein-borstel",
+    "name": "Kornweg (Klein Borstel)",
+    "lat": 53.632487,
+    "lon": 10.054565,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "krupunder",
+    "name": "Krupunder",
+    "lat": 53.615912,
+    "lon": 9.867524,
+    "lines": [
+      "S3"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "koenigstrasse",
+    "name": "Königstraße",
+    "lat": 53.54779,
+    "lon": 9.943949,
+    "lines": [
+      "S1",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "landungsbruecken",
+    "name": "Landungsbrücken",
+    "lat": 53.54624,
+    "lon": 9.971493,
+    "lines": [
+      "U3",
+      "S1",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "landwehr",
+    "name": "Landwehr",
+    "lat": 53.561198,
+    "lon": 10.03803,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "langenfelde",
+    "name": "Langenfelde",
+    "lat": 53.57954,
+    "lon": 9.930827,
+    "lines": [
+      "S2",
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "langenhorn-markt",
+    "name": "Langenhorn Markt",
+    "lat": 53.649278,
+    "lon": 10.017197,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "langenhorn-nord",
+    "name": "Langenhorn Nord",
+    "lat": 53.661003,
+    "lon": 10.017594,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "lattenkamp-sporthalle",
+    "name": "Lattenkamp (Sporthalle)",
+    "lat": 53.599899,
+    "lon": 9.994583,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "legienstrasse",
+    "name": "Legienstraße",
+    "lat": 53.546757,
+    "lon": 10.09653,
+    "lines": [
+      "U2",
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "lohmuehlenstrasse",
+    "name": "Lohmühlenstraße",
+    "lat": 53.556581,
+    "lon": 10.019038,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "lutterothstrasse",
+    "name": "Lutterothstraße",
+    "lat": 53.582067,
+    "lon": 9.947598,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "luebecker-strasse",
+    "name": "Lübecker Straße",
+    "lat": 53.55956,
+    "lon": 10.028965,
+    "lines": [
+      "U1",
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "meiendorfer-weg",
+    "name": "Meiendorfer Weg",
+    "lat": 53.638871,
+    "lon": 10.156269,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "merkenstrasse",
+    "name": "Merkenstraße",
+    "lat": 53.538615,
+    "lon": 10.124678,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "messehallen",
+    "name": "Messehallen",
+    "lat": 53.558175,
+    "lon": 9.976626,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "messberg",
+    "name": "Meßberg",
+    "lat": 53.547635,
+    "lon": 10.000643,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "mittlerer-landweg",
+    "name": "Mittlerer Landweg",
+    "lat": 53.49788,
+    "lon": 10.131721,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "mundsburg",
+    "name": "Mundsburg",
+    "lat": 53.569393,
+    "lon": 10.027604,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "moenckebergstrasse",
+    "name": "Mönckebergstraße",
+    "lat": 53.551296,
+    "lon": 10.002239,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "muemmelmannsberg",
+    "name": "Mümmelmannsberg",
+    "lat": 53.528723,
+    "lon": 10.150053,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "nettelnburg",
+    "name": "Nettelnburg",
+    "lat": 53.487993,
+    "lon": 10.181237,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "neugraben",
+    "name": "Neugraben",
+    "lat": 53.474118,
+    "lon": 9.852022,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "neuwiedenthal",
+    "name": "Neuwiedenthal",
+    "lat": 53.473101,
+    "lon": 9.875873,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "niendorf-markt",
+    "name": "Niendorf Markt",
+    "lat": 53.620249,
+    "lon": 9.951702,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "niendorf-nord",
+    "name": "Niendorf Nord",
+    "lat": 53.640712,
+    "lon": 9.950152,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "norderstedt-mitte",
+    "name": "Norderstedt Mitte",
+    "lat": 53.707938,
+    "lon": 9.992451,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "ochsenzoll",
+    "name": "Ochsenzoll",
+    "lat": 53.678013,
+    "lon": 10.001493,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "ohlsdorf",
+    "name": "Ohlsdorf",
+    "lat": 53.620591,
+    "lon": 10.031825,
+    "lines": [
+      "U1",
+      "S1"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "oldenfelde",
+    "name": "Oldenfelde",
+    "lat": 53.61753,
+    "lon": 10.128853,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "osterstrasse",
+    "name": "Osterstraße",
+    "lat": 53.576097,
+    "lon": 9.95157,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "othmarschen",
+    "name": "Othmarschen",
+    "lat": 53.55912,
+    "lon": 9.885286,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "ottensen",
+    "name": "Ottensen",
+    "lat": 53.559632,
+    "lon": 9.926211,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "pinneberg",
+    "name": "Pinneberg",
+    "lat": 53.654925,
+    "lon": 9.797813,
+    "lines": [
+      "S3"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "poppenbuettel",
+    "name": "Poppenbüttel",
+    "lat": 53.651955,
+    "lon": 10.093981,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "rathaus",
+    "name": "Rathaus",
+    "lat": 53.55046,
+    "lon": 9.99475,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "rauhes-haus",
+    "name": "Rauhes Haus",
+    "lat": 53.554168,
+    "lon": 10.06603,
+    "lines": [
+      "U2",
+      "U4"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "reeperbahn",
+    "name": "Reeperbahn",
+    "lat": 53.549647,
+    "lon": 9.957947,
+    "lines": [
+      "S1",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "reinbek",
+    "name": "Reinbek",
+    "lat": 53.508385,
+    "lon": 10.253162,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "richtweg",
+    "name": "Richtweg",
+    "lat": 53.695732,
+    "lon": 9.989666,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "rissen",
+    "name": "Rissen",
+    "lat": 53.583155,
+    "lon": 9.757321,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "ritterstrasse",
+    "name": "Ritterstraße",
+    "lat": 53.56762,
+    "lon": 10.046595,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "rothenburgsort",
+    "name": "Rothenburgsort",
+    "lat": 53.538726,
+    "lon": 10.043196,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "roedingsmarkt",
+    "name": "Rödingsmarkt",
+    "lat": 53.548368,
+    "lon": 9.987037,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "ruebenkamp-city-nord",
+    "name": "Rübenkamp (City Nord)",
+    "lat": 53.605816,
+    "lon": 10.033217,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "saarlandstrasse",
+    "name": "Saarlandstraße",
+    "lat": 53.589157,
+    "lon": 10.032206,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "schippelsweg",
+    "name": "Schippelsweg",
+    "lat": 53.63478,
+    "lon": 9.952649,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "schlump",
+    "name": "Schlump",
+    "lat": 53.568015,
+    "lon": 9.969879,
+    "lines": [
+      "U2",
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "schmalenbeck",
+    "name": "Schmalenbeck",
+    "lat": 53.653119,
+    "lon": 10.260644,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "sengelmannstrasse-city-nord",
+    "name": "Sengelmannstraße (City Nord)",
+    "lat": 53.609521,
+    "lon": 10.021807,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "sierichstrasse",
+    "name": "Sierichstraße",
+    "lat": 53.590419,
+    "lon": 10.001066,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "st-pauli",
+    "name": "St.Pauli",
+    "lat": 53.55051,
+    "lon": 9.970097,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "stadthausbruecke",
+    "name": "Stadthausbrücke",
+    "lat": 53.549529,
+    "lon": 9.984544,
+    "lines": [
+      "S1",
+      "S3",
+      "S5",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "steinfurther-allee",
+    "name": "Steinfurther Allee",
+    "lat": 53.541003,
+    "lon": 10.139207,
+    "lines": [
+      "U2"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "steinstrasse",
+    "name": "Steinstraße",
+    "lat": 53.549258,
+    "lon": 10.006309,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "stellingen-arenen",
+    "name": "Stellingen (Arenen)",
+    "lat": 53.589727,
+    "lon": 9.918335,
+    "lines": [
+      "S2",
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "stephansplatz-oper-cch",
+    "name": "Stephansplatz (Oper/CCH)",
+    "lat": 53.558666,
+    "lon": 9.989309,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "sternschanze-messe",
+    "name": "Sternschanze (Messe)",
+    "lat": 53.563813,
+    "lon": 9.966221,
+    "lines": [
+      "U3",
+      "S2"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "strassburger-strasse",
+    "name": "Straßburger Straße",
+    "lat": 53.581789,
+    "lon": 10.068084,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "suelldorf",
+    "name": "Sülldorf",
+    "lat": 53.581116,
+    "lon": 9.797267,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "thesdorf",
+    "name": "Thesdorf",
+    "lat": 53.644359,
+    "lon": 9.813823,
+    "lines": [
+      "S3"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "tiefstack",
+    "name": "Tiefstack",
+    "lat": 53.531002,
+    "lon": 10.066201,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "trabrennbahn",
+    "name": "Trabrennbahn",
+    "lat": 53.598228,
+    "lon": 10.102199,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "uhlandstrasse",
+    "name": "Uhlandstraße",
+    "lat": 53.564502,
+    "lon": 10.026942,
+    "lines": [
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "veddel-ballinstadt",
+    "name": "Veddel (BallinStadt)",
+    "lat": 53.521176,
+    "lon": 10.012971,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "volksdorf",
+    "name": "Volksdorf",
+    "lat": 53.650484,
+    "lon": 10.163241,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "wandsbek-markt",
+    "name": "Wandsbek Markt",
+    "lat": 53.571682,
+    "lon": 10.066878,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "wandsbek-gartenstadt",
+    "name": "Wandsbek-Gartenstadt",
+    "lat": 53.59242,
+    "lon": 10.074922,
+    "lines": [
+      "U1",
+      "U3"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "wandsbeker-chaussee",
+    "name": "Wandsbeker Chaussee",
+    "lat": 53.569766,
+    "lon": 10.060037,
+    "lines": [
+      "U1",
+      "S1"
+    ],
+    "type": "both"
+  },
+  {
+    "id": "wartenau",
+    "name": "Wartenau",
+    "lat": 53.564732,
+    "lon": 10.035656,
+    "lines": [
+      "U1"
+    ],
+    "type": "ubahn"
+  },
+  {
+    "id": "wedel",
+    "name": "Wedel",
+    "lat": 53.581894,
+    "lon": 9.70495,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "wellingsbuettel",
+    "name": "Wellingsbüttel",
+    "lat": 53.641176,
+    "lon": 10.082724,
+    "lines": [
+      "S1"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "wilhelmsburg",
+    "name": "Wilhelmsburg",
+    "lat": 53.498164,
+    "lon": 10.006696,
+    "lines": [
+      "S3",
+      "S5"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "wohltorf",
+    "name": "Wohltorf",
+    "lat": 53.520631,
+    "lon": 10.27795,
+    "lines": [
+      "S2",
+      "S7"
+    ],
+    "type": "sbahn"
+  },
+  {
+    "id": "ueberseequartier",
+    "name": "Überseequartier",
+    "lat": 53.540473,
+    "lon": 9.998453,
+    "lines": [
+      "U4"
+    ],
+    "type": "ubahn"
+  }
+]

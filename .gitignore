@@ -1,0 +1,6 @@
+.DS_Store
+.cursor/
+*.log
+LOCAL-INFO.md
+scripts/.cache/
+*.zip
