@@ -527,6 +527,7 @@ class MapNavigator {
   }
 
   updateTransform() {
+    this.svg.style.setProperty('--map-zoom', this.zoom);
     this.svg.style.transform = `translate(${this.panX}px, ${this.panY}px) scale(${this.zoom})`;
   }
 }
@@ -1112,7 +1113,7 @@ class TunnelGame {
       const percent = totalInDistrict > 0 ? Math.round((solvedInDistrict / totalInDistrict) * 100) : 0;
       
       const row = document.createElement('div');
-      row.className = `line-progress-row ${isUnlocked ? 'unlocked' : 'locked'}`;
+      row.className = `district-progress-row ${isUnlocked ? 'unlocked' : 'locked'}`;
       if (isUnlocked && solvedInDistrict < totalInDistrict) {
         row.classList.add('active-unlock');
       }
@@ -1121,7 +1122,7 @@ class TunnelGame {
       const color = this.getLineColor(line.id);
       
       row.innerHTML = `
-        <div class="dp-indicator" style="background: ${color}; box-shadow: 0 0 6px ${color};"></div>
+        <div class="dp-indicator line-color-indicator" style="background: ${color}; box-shadow: 0 0 6px ${color};"></div>
         <div class="dp-name">${line.id}</div>
         ${isUnlocked ? 
           `<div class="dp-score">${solvedInDistrict}/${totalInDistrict} (${percent}%)</div>` : 
